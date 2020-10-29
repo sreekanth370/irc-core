@@ -1,4 +1,7 @@
 language: c
+arch:
+ - amd64
+ - ppc64le
 osx_image: xcode6.4
 sudo: false
 os:
